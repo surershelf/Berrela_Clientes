@@ -1,0 +1,3 @@
+Julio Cesar, Terreno/Casa/Rua, 20, 43 997867563, 8500
+Bernardo,Casa,19,43 989898989,7000
+Carlin da Silva, Ap Duplex Na Barra Da Tijuca, 6, 14 998488278, 5320
