@@ -29,9 +29,6 @@ for contato in contatos:
         if numCel != ' 0000':
             celulares.append(numCel)
 
-
-pw.open_web()
-
 for numero in celulares:
     pw.sendwhatmsg_instantly(f"+55 {numero}","Ola")
     
