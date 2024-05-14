@@ -33,6 +33,6 @@ for contato in contatos:
 pw.open_web()
 
 for numero in celulares:
-    pw.sendwhatmsg_instantly(f"+55 43996849824","Ola")
-    ic(numero)
+    pw.sendwhatmsg_instantly(f"+55 {numero}","Ola")
+    
 
